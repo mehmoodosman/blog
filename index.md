@@ -1,5 +1,3 @@
 ---
-title: "Welcome adventurer!"
+title: "A place for me to share my frivolous writing with the world!"
 ---
-
-A place for me to share my frivolous writing with the world.
